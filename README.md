@@ -1,7 +1,7 @@
 # Belajar Analisis Data dengan Python Dicoding
 
 ## Preview
-![Bike Sharing Dashboard Streamlit Preview]([https://raw.githubusercontent.com/hilmiyatulasna/proyek-analisis-data-dicoding/main/preview.png](https://github.com/DunkToHeaven/Analisis-Data-Dicoding/blob/80a90332bc652482f30b48fbe646d3a26156afa1/preview.png))
+![Bike Sharing Dashboard Streamlit Preview]([https://github.com/DunkToHeaven/Analisis-Data-Dicoding/blob/80a90332bc652482f30b48fbe646d3a26156afa1/preview.png])
 
 ## Project Analisis Data
 
