@@ -41,4 +41,4 @@ pip install -r requirements.txt
     cd bike-sharing/dashboard/
     streamlit run dashboard.py
     ```
-    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://air-quality-hilmiyatt.streamlit.app/)
+    Atau bisa dengan kunjungi website ini [Project Data Analytics]([https://clean-ghosts-tease.loca.lt/])
